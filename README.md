@@ -4,7 +4,7 @@ This tool is used to process csv files and display them to the user and it conta
 
 ## Installation
 
-This guide assumes you already have Git installed and configured on your machine and bash is used to execute all commands.
+This guide assumes you already have Git and at least Python 3.11.9 installed and configured on your machine and bash is used to execute all commands.
 
 Clone this repo into your machine
 
