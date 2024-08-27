@@ -39,7 +39,7 @@ pip list
 In order to use the CLI tool, open the directory that contains the process_csv.py file and run the following command
 
 ```bash
-python3 process_csv.py
+python process_csv.py
 ```
 In order to run the unit tests created to test this tool, execute the following command in the directory
 
