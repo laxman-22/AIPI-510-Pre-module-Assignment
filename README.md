@@ -36,8 +36,11 @@ pip list
 
 ## Usage
 
-In order to use the CLI tool, open the directory that contains the process_csv.py file and run the following command
+In order to use the CLI tool, open the directory that contains the process_csv.py file and run the tool
 
+```bash
+cd AIPI-510-Pre-module-Assignment/
+```
 ```bash
 python process_csv.py
 ```
