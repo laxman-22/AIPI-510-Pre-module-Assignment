@@ -4,7 +4,9 @@ This tool is used to process csv files and display them to the user and it conta
 
 ## Installation
 
-Use this repo and clone it into your machine
+This guide assumes you already have Git installed and configured on your machine.
+
+Clone this repo into your machine
 
 ```bash
 git clone https://github.com/laxman-22/AIPI-510-Pre-module-Assignment.git
