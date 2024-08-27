@@ -44,6 +44,6 @@ python process_csv.py
 In order to run the unit tests created to test this tool, execute the following command in the directory
 
 ```bash
-pytest -v
+python -m pytest -v
 ```
 
