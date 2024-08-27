@@ -41,6 +41,7 @@ In order to use the CLI tool, open the directory that contains the process_csv.p
 ```bash
 cd AIPI-510-Pre-module-Assignment/
 ```
+**Note: If you are using Linux, please use python3 instead of python in the below commands.**
 ```bash
 python process_csv.py
 ```
